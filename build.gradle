@@ -17,5 +17,5 @@ repositories {
 }
 
 dependencies {
-    testCompileOnly 'junit:junit:4.12'
+    testImplementation 'junit:junit:4.12'
 }
